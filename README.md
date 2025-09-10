@@ -29,4 +29,4 @@
 _Eager to collaborate, learn, and build awesome things together!_
 
 ## 🔗 Connect with Me
-[LinkedIn](#) | [Dev.to](#) | Email: your@email.com
+[LinkedIn](https://www.linkedin.com/in/renato-rocha-7632b923a/) | Email: renatosamuelrocha110@gmail.com
