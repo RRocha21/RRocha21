@@ -21,7 +21,12 @@
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RRocha21&theme=tokyonight" alt="GitHub streak stats" />
   <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=G2-Rocha&theme=tokyonight" alt="My G2Esports GitHub streak stats" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RRocha21&theme=tokyonight&layout=compact" alt="Top languages" />
 </p>
 
 _Eager to collaborate, learn, and build awesome things together!_
+
+## 🔗 Connect with Me
+[LinkedIn](#) | [Dev.to](#) | Email: your@email.com
