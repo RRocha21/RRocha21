@@ -2,17 +2,6 @@
 
 - 🧑 I'm **25 years old**
 - 💻 Junior Software Developer at G2Esports
-- 🌟 I know **C**, **C++**, **Python**, **Go**, **JavaScript**, and **TypeScript**
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RRocha21&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RRocha21&theme=tokyonight" alt="GitHub streak stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RRocha21&theme=tokyonight&layout=compact" alt="Top languages" />
-</p>
 
 ## 🚀 Tech Stack
 
@@ -24,5 +13,15 @@
 - ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RRocha21&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RRocha21&theme=tokyonight" alt="GitHub streak stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RRocha21&theme=tokyonight&layout=compact" alt="Top languages" />
+</p>
 
 _Eager to collaborate, learn, and build awesome things together!_
