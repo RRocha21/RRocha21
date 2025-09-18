@@ -1,7 +1,8 @@
 # Hi there 👋
 
-- 🧑 I'm **25 years old**
-- 💻 Junior Software Developer at G2Esports
+- 🧑 **25 years old**
+- 🇵🇹  **Portuguese**
+- 💻 **Junior Software Developer** at G2Esports
 
 ## 🚀 Tech Stack
 
