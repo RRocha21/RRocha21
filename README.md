@@ -2,7 +2,7 @@
 
 - 🧑 **25 years old**
 - 🇵🇹  **Portuguese**
-- 💻 **Junior Software Developer** at G2Esports
+- 💻 **Software Developer** at G2Esports
 
 ## 🚀 Tech Stack
 
