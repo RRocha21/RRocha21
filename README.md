@@ -26,11 +26,9 @@ Outside of work, I love experimenting with tools and scrapers that I deploy on m
 
 ## 📊 GitHub Stats
 
-
   ![Stats](./profile/stats.svg)
   ![Top Languages](./profile/top-langs.svg)
   ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
-
 
 _Eager to collaborate, learn, and build awesome things together._  
 
