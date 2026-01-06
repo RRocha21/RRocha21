@@ -27,9 +27,9 @@ Outside of work, I love experimenting with tools and scrapers that I deploy on m
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RRocha21&theme=tokyonight&hide_border=true" alt="GitHub streak" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RRocha21&theme=tokyonight&layout=compact&hide_border=true" alt="Top languages" /><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=RRocha21&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  ![Stats](./profile/stats.svg)
+  ![Top Languages](./profile/top-langs.svg)
+  ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 </p>
 
 _Eager to collaborate, learn, and build awesome things together._  
