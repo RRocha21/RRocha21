@@ -29,11 +29,11 @@ Outside of work, I love experimenting with tools and scrapers that I deploy on m
   <p align="center">
     <img src="https://github-readme-stats-pi-one-44.vercel.app/api/?username=RRocha21&theme=tokyonight" alt="GitHub stats" />
     <br>
-    <img src="https://github-readme-stats-pi-one-44.vercel.app/api/?username=G2_Rocha&theme=tokyonight" alt="GitHub stats" />
+    <img src="https://github-readme-stats-pi-one-44.vercel.app/api/?username=G2-Rocha&theme=tokyonight" alt="GitHub stats" />
     <br>
     <img src="https://github-readme-stats-pi-one-44.vercel.app/api/top-langs/?username=RRocha21&theme=tokyonight&layout=compact" alt="Top languages" />
     <br>
-    <img src="https://github-readme-stats-pi-one-44.vercel.app/api/top-langs/?username=G2_Rocha&theme=tokyonight&layout=compact" alt="Top languages" />
+    <img src="https://github-readme-stats-pi-one-44.vercel.app/api/top-langs/?username=G2-Rocha&theme=tokyonight&layout=compact" alt="Top languages" />
   </p>
 
 _Eager to collaborate, learn, and build awesome things together._  
