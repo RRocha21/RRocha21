@@ -26,7 +26,7 @@ Outside of work, I love experimenting with tools and scrapers that I deploy on m
 
 ## 📊 GitHub Stats
 
-  <img align="center" alt="RRocha21" src="https://https://github-readme-stats-pi-one-44.vercel.app/api/username=RRocha21&show_icons=true&hide_border=true"/>
+  <img align="center" alt="RRocha21" src="https://github-readme-stats-pi-one-44.vercel.app/api/username=RRocha21&show_icons=true&hide_border=true"/>
 
 _Eager to collaborate, learn, and build awesome things together._  
 
