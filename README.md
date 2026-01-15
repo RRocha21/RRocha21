@@ -29,8 +29,6 @@ Outside of work, I love experimenting with tools and scrapers that I deploy on m
   <p align="center">
     <img src="https://github-readme-stats-pi-one-44.vercel.app/api/?username=RRocha21&theme=tokyonight" alt="GitHub stats" />
     <br>
-    <img src="https://github-readme-stats-pi-one-44.vercel.app/api/?username=G2-Rocha&theme=tokyonight" alt="My G2Esports GitHub stats" />
-    <br>
     <img src="https://github-readme-stats-pi-one-44.vercel.app/api/top-langs/?username=RRocha21&theme=tokyonight&layout=compact" alt="Top languages" />
   </p>
 
